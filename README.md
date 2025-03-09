@@ -3,6 +3,7 @@
 ## Descrição
 A classe Reserva gerencia informações sobre uma reserva de hospedagem, incluindo a lista de hóspedes, a suite reservada e a quantidade de dias reservados. Também inclui métodos para cadastrar hóspedes, cadastrar uma suite, obter a quantidade de hóspedes e calcular o valor total da diária com desconto.
 
+<<<<<<< HEAD
 ## Métodos
 
 ### `void CadastrarHospedes(List<Pessoa> hospedes)`
@@ -68,6 +69,9 @@ public decimal CalcularValorDiaria()
   - Se a reserva for para 10 dias ou mais, um desconto de 10% é aplicado ao total.
 - **Retorno:**
   - Valor total da diária após a aplicação do desconto (se aplicável).
+=======
+
+>>>>>>> 40124c9866d29addf11e97a01aebd707639dc9cf
 
 ---
 # DIO - Trilha .NET - Explorando a linguagem C#
