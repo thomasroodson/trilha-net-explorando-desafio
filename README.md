@@ -1,3 +1,11 @@
+# Entrega Desafio
+## DIO - Trilha .NET - Explorando a linguagem C#
+## Descrição
+A classe Reserva gerencia informações sobre uma reserva de hospedagem, incluindo a lista de hóspedes, a suite reservada e a quantidade de dias reservados. Também inclui métodos para cadastrar hóspedes, cadastrar uma suite, obter a quantidade de hóspedes e calcular o valor total da diária com desconto.
+
+
+
+---
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
