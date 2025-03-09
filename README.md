@@ -68,9 +68,6 @@ public decimal CalcularValorDiaria()
   - Se a reserva for para 10 dias ou mais, um desconto de 10% é aplicado ao total.
 - **Retorno:**
   - Valor total da diária após a aplicação do desconto (se aplicável).
-=======
-
->>>>>>> 40124c9866d29addf11e97a01aebd707639dc9cf
 
 ---
 # DIO - Trilha .NET - Explorando a linguagem C#
